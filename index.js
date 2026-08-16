@@ -10,7 +10,7 @@ const CORRECT_PASSWORD = "normywatch123";
 
 // 1. Your 11 Video URLs for the video page
 const secureVideos = [
-    "videos/video1.mp4",
+    "https://z6v2p9a8.bkcdn.net/library/802424/84c75d52734606f3cdf4246d283dfa9f32606dd9.mp4",
     "videos/video2.mp4",
     "videos/video3.mp4",
     "videos/video4.mp4",
