@@ -35,7 +35,7 @@ const secureGalleryImages = [
     { url: "https://picsum.photos/300/300?random=8", title: "Picture 8" },
     { url: "https://picsum.photos/300/300?random=9", title: "Picture 9" },
     { url: "https://picsum.photos/300/300?random=10", title: "Picture 10" },
-    { url: "https://picsum.photos/300/300?random=11", title: "Picture 11" }
+    { url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrDtH6AWNpLeEQboJIUpfvyJZmlmv_RNe-3-gOYP1YkA&s=10", title: "Picture 11" }
 ];
 
 // Single unified password verification endpoint
