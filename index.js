@@ -10,7 +10,7 @@ const CORRECT_PASSWORD = "normywatch123";
 
 // 1. Your 11 Video URLs for the video page
 const secureVideos = [
-    "https://z6v2p9a8.bkcdn.net/library/802424/84c75d52734606f3cdf4246d283dfa9f32606dd9.mp4",
+    "videos/video1.mp4",
     "videos/video2.mp4",
     "videos/video3.mp4",
     "videos/video4.mp4",
@@ -25,7 +25,7 @@ const secureVideos = [
 
 // 2. Your 11 Gallery Images for the gallery page
 const secureGalleryImages = [
-    { url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2mB3PdvlMTTFlUen6eMVlxLacJ8K9blS19zeiTG1aEQ&s=10", title: "Picture 1" },
+    { url: "https://picsum.photos/300/300?random=1", title: "Picture 1" },
     { url: "https://picsum.photos/300/300?random=2", title: "Picture 2" },
     { url: "https://picsum.photos/300/300?random=3", title: "Picture 3" },
     { url: "https://picsum.photos/300/300?random=4", title: "Picture 4" },
