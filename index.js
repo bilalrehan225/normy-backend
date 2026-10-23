@@ -18,7 +18,7 @@ const secureVideos = [
     "videos/video6.mp4",
     "videos/video7.mp4",
     "videos/video8.mp4",
-    "https://pr1.rat.xxx/contents/videos/18000/18078/18078_short_preview.mp4",
+    "videos/video9.mp4",
     "videos/video10.mp4",
     "videos/video11.mp4"
 ];
